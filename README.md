@@ -1,1 +1,1 @@
-# heima-config
+# he-config
